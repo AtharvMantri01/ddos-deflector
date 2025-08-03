@@ -45,7 +45,7 @@ Whether you're a solo developer or managing a fleet of VPS instances — **this 
 Paste the following command into your terminal:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/zentrahost/ddos-deflector/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/AtharvMantri01/ddos-deflector/main/install.sh | bash
 ```
 
 > ⚠️ Make sure you're running this as root or with `sudo` privileges.
